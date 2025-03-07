@@ -19,7 +19,7 @@
 # # 7. You have finished the homework. What commands will allow you to save the changes and push from your local repository to your remote repository?
 # git add homework.py
 # git commit -m "add homework.py"
-# git push original main
+# git push origin main
 
 # # 9. What absolute path will allow you to move to Recents/?
 # cd ~/recents/
